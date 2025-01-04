@@ -1,5 +1,5 @@
 {
-    "name":"Home Assistant Bigmoby Add-ons",
-    "url":"https://github.com/bigmoby/hassio-repository-addon",
-    "maintainer":"Fabio Bigmoby Mauro <https://github.com/bigmoby>"
+    "name":"Home Assistant Bigmoby Add-ons Linuxtech's clone",
+    "url":"https://github.com/linuxtech/hassio-repository-addon",
+    "maintainer":"Vitalii <https://github.com/linuxtech>"
 }
